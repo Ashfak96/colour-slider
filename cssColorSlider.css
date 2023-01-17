@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+}
+
+
+.redSlider{
+	color: #ff0000;
+}
+
+.greenSlider{
+	color: #00ff00;
+}
+
+.blueSlider{
+	color: #0000ff;
+}
+
+h1{
+	background-color: rgba(255, 255, 255, 0.5);
+	
+}
+
+p{
+	background-color: rgba(255, 255, 255, 0.5);
+}
